@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./cyberpunk-neon.svg" alt="{{Najib}} — cyberpunk profile" width="100%" />
+</p>
+
 - 👋 Hi, I’m @njbarbara
 - 👀 I’m interested in software development and game design 
 - 🌱 I’m currently learning .NET MAUI and C++
