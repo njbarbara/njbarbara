@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./cyberpunk-neon.svg" alt="" width="100%" />
-</p>
+
 
 - 👋 Hi, I’m @njbarbara
 - 👀 I’m interested in software development and game design 
