@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./cyberpunk-neon.svg" alt="" width="100%" />
 </p>
+
 - 👋 Salut, moi c’est Najib, étudiant en informatique (BUT Informatique)
 - 💡 Ce qui me plaît : concevoir des applications complète, du backend aux applis web et mobiles
 - 📫 Pour parler dev ou monter un projet ensemble : barnaj1910@gmail.com
