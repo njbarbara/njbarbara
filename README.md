@@ -17,6 +17,8 @@
 njbarbara/njbarbara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 💻 Most Used Languages
+<h2>💻 Most Used Languages</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njbarbara&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
