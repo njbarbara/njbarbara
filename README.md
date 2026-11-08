@@ -1,3 +1,23 @@
+<p align="center">
+  <img src="./assets/cyberpunk-neon.svg" alt="{{name}} — cyberpunk profile" width="100%" />
+</p>
+
+### // whoami
+
+{{bio_lowercase}}
+
+### // currently
+
+- {{currently_one}}
+- {{currently_two}}
+- {{currently_three}}
+
+### // contact
+
+`{{website}}` · `@{{twitter}}` · `{{email}}`
+
+
+
 - 👋 Hi, I’m @njbarbara
 - 👀 I’m interested in software development and game design 
 - 🌱 I’m currently learning .NET MAUI and C++
