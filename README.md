@@ -20,5 +20,5 @@ You can click the Preview link to take a look at your changes.
 <h2>💻 Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njbarbara&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
