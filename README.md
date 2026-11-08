@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cyberpunk-neon.svg" alt="{{Najib}} — cyberpunk profile" width="100%" />
+  <img src="./cyberpunk-neon.svg" alt="" width="100%" />
 </p>
 
 - 👋 Hi, I’m @njbarbara
